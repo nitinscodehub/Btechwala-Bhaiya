@@ -11,15 +11,18 @@ Par agar tum chahte ho ki mera toolkit —
 
 Toh ab **chhoti rashi bhi kaafi hai!** 💛
 
-👉 **UPI se direct bhejo (₹10, ₹20, ₹50 — jitna dil kare):  
- 
-<img width="720" height="588" alt="image" src="https://github.com/user-attachments/assets/ddccf1a4-f054-4036-b6f0-7207cfbd14ad" />
+👉 **UPI se direct bhejo (₹10, ₹20, ₹50 — jitna dil kare):**
 
-📌 UPI ID (tap to copy):  
-devkidhurvey790-1@okicici
+<img src="https://github.com/user-attachments/assets/ddccf1a4-f054-4036-b6f0-7207cfbd14ad" 
+     alt="UPI QR Code - Btechwala Bhaiya" 
+     width="250" />
 
-Tumhare ₹10 ka matlab mere liye **bohot zyada hai** —  
+📌 **UPI ID (tap to copy):**  
+`devkidhurvey790-1@okicici`
+
+Tumhare ₹10 ka matlab mere liye **bohot zyada hai** hamesha love and support karte rahiye —  
 kyunki isse mujhe pata chalta hai ki **mera kaam kisi ka kaam aa raha hai.**
 
-<h1>as niche Link par click karo Site pe chale jaoge  👇  thank you !</h1>
+<h3>👉 Niche link par click karo, Site pe chale jaoge 👇 Thank you!</h3>
+
 https://github.com/btechwala/btechwala-tools
